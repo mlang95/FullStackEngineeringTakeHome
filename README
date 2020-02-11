@@ -1,0 +1,12 @@
+This code will first ask you if you want to have random data populated with, as an example. 
+Then, it will take you a menu screen, where you can navigate through various options that will allow you to:
+add a new policy holder, report claims to existing policy holders, give a list of general information with respect to our policyholders,
+lookup claims by the policyholders unique ID, and give some basic aggregated data.
+
+There is some data validation, however, due to time restrictions I was not able to incorporate many normalizations and data validation tools.
+
+Thanks for taking the time to review my work, and I hope you enjoy!
+
+Cheers,
+
+Matt Lang
