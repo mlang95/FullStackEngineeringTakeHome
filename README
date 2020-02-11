@@ -1,3 +1,5 @@
+This code uses the datetime, nltk, and prettytable packages. Make sure you have those installed.
+
 This code will first ask you if you want to have random data populated with, as an example. 
 Then, it will take you a menu screen, where you can navigate through various options that will allow you to:
 add a new policy holder, report claims to existing policy holders, give a list of general information with respect to our policyholders,
